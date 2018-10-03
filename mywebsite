@@ -1,0 +1,173 @@
+<!doctype html>
+<html>
+  <head> 
+    <h1> VIXEN </h1>
+    <link rel="stylesheet" type="text/css" href="myreset.css">
+    <link rel="stylesheet" type="text/css" href="mystyle.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <title>VIXEN</title>
+  </head>
+  <body>
+    <header>
+      <div class="navbar">
+        <ul>
+          <li><a href="about.me.html">About Me</a></li>
+          <li><a href="mywork.html">My work</a></li>
+          <li>Contact</li>
+        </ul>
+        <section>
+          <img src= "FullSizeRender-2.jpg" height="50%" width="20%">
+        </section>
+      </div>
+      <p>
+        She is beauty </p> 
+<p>Casting down her rays on the people </p>
+<p>Holding up the universe </p>
+<p>That she calls her own </p>
+<p>A symbol of strength. <p>
+<p>I praise thee who holds the universe I live in together </p>
+
+<p>
+She reigns over all the other stars </p>
+<p>And for that she is almighty, beautiful, and strong- </p>
+<p>All in one.</p>
+<p>Blazing her rays on life;</p>
+<p>She is powerful </p>
+<p>She is the reason why we eat, breathe, and live</p>
+<p>Without her we are nothing </p>
+<p>She controls the start of each day </p>
+<p>And controls the beginning of each night </p>
+
+<p>
+But apart from all the beauty
+She is ruthless
+holding rage within her
+Hoping no one will come too closely to her </p>
+
+<p>
+But, she is beauty. </p>
+<p>
+Holding up everything that revolves around her </p>
+<p>
+Appearing every morning </p>
+<p>
+And disappearing every night </p>
+
+<p>
+I am her </p>
+<p>She is me</p>
+<p>Making daily appearances</p>
+<p>Filled with heat and beauty </p>
+<p>That can attract or push one away </p>
+<p>I am a fire sensation </p>
+<p>Getting to close to me can harm you</p>
+<p>For I have tendencies to hurt someone</p>
+<p>Filled with nothing but fire and insecurities </p>
+ 
+<p>
+I am her and she is me </p>
+<p>I am nothing but merely a star playing my role in the universe</p>
+<p>Hoping no one gets too close to me</p>
+<p>And leaves 
+</p>
+    </header>
+  </body>
+</html>
+
+
+
+/* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+
+h1{
+	font-weight:bold;
+	font-size:50px;
+	margin-left: 100px;
+}
+ul {
+	background-color: white;
+	padding:10px;
+}
+li {
+	font-weight:bold;
+	display: inline;
+	margin:20px;
+}
+p{
+	font-size: 15px;
+
+}
+
+
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>My First Heading</h1>
+<p>My first paragraph.</p>
+
+</body>
+</html>
+
+
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>My ART</h1>
+<section>
+          <img src= "FullSizeRender-2.jpg" height="750%" width="30%">
+          <img src= "FullSizeRender.jpg" Height="80%" width="30%">
+          <img src= "FullSizeRender-1.jpg" height="75%" width="30%">
+        </section>
+
+</body>
+</html>
