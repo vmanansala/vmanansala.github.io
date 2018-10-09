@@ -1,16 +1,17 @@
 h1{
 	font-weight:bold;
 	font-size:50px;
-	margin-left: 100px;
+	text-align: center;
 }
 ul {
 	background-color: white;
 	padding:10px;
+	text-align: center;
 }
 li {
 	font-weight:bold;
 	display: inline;
-	margin:20px;
+	
 }
 p{
 	font-size: 15px;
