@@ -4,8 +4,12 @@
 
 <h1 class="smaller"><a href="myindex.html">THE VIXEN</a></h1>
 <link rel="stylesheet" type="text/css" href="myreset.css">
-    <link rel="stylesheet" type="text/css" href="mystyle.css">
+<link rel="stylesheet" type="text/css" href="mystyle.css">
     <meta charset="UTF-8">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
+      <!-- Compiled and minified JavaScript -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
+
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <title>VIXEN</title>
   </head>
@@ -15,19 +19,32 @@
         <ul>
           <li><a href="about.me.html">About</a></li>
           <li><a href="mywork.html">My work</a></li>
-          <li>Contact</li>
+           <!-- Dropdown Trigger -->
+  <a class='dropdown-trigger btn' href='#' data-target='dropdown1'>Contact!</a>
+
+  <!-- Dropdown Structure -->
+  <ul id='dropdown1' class='dropdown-content'>
+    <li><a href="venusmanansala@gmail.com">Email: Venusmanansala@gmail.com</a></li>
+    <li><a href="https://www.instagram.com/bbyyvixen">Instagram: bbyyvixen</a></li>
+  </ul>
         </ul>
-        
+        <p class="rain">!!!Make it Rain!!!</p>
       </div>
+
+      <script src='http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js'></script>
+      <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+      <script type="text/javascript" src="makeItRain.js"></script>
+      <script type="text/javascript" src="script.js"></script>
+</header>
 
       <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
       <script type="text/javascript" src="script.js"></script>
       <p>
 <body>
 <section>
-          <img src= "FullSizeRender-2.jpg" height="750%" width="30%">
-          <img src= "FullSizeRender.jpg" Height="80%" width="30%">
-          <img src= "FullSizeRender-1.jpg" height="75%" width="30%">
+          <img class="mywork" src= "FullSizeRender-2.jpg" height="750%" width="30%">
+          <img class="mywork" src= "FullSizeRender.jpg" Height="80%" width="30%">
+          <img class="mywork" src= "FullSizeRender-1.jpg" height="75%" width="30%">
         </section>
 
 </body>

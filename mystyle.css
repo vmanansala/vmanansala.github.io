@@ -98,6 +98,7 @@ p{
 .name2{
 	font-size: 15px;
 	font-family: 'Frank Ruhl Libre';
+	font-weight: bold;
 }
 .comments{
 	font-size: 15px;
@@ -118,40 +119,16 @@ p{
 	margin-left: auto;
 	margin-right: auto;
 	width:50%;
-}
-.image {
-  opacity: 1;
-  display: block;
-  width: 100%;
-  height: auto;
-  transition: .5s ease;
-  backface-visibility: hidden;
+	margin-top: 25px;
 }
 
-.middle {
-  transition: .5s ease;
-  opacity: 0;
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-  -ms-transform: translate(-50%, -50%)
+.mywork {
+	display: center;
+	margin-right: auto;
+	margin-right: auto;
+	
 }
 
-.container:hover .image {
-  opacity: 0.3;
-}
-
-.container:hover .middle {
-  opacity: 1;
-}
-
-.text {
-  background-color: #4CAF50;
-  color: black;
-  font-size: 16px;
-  padding: 16px 32px;
-}
 a {text-decoration: none;}
 a:visited {text-decoration: none;color:black;}
 a:hover {text-decoration:none; color:gold;}
